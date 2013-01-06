@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://Tingyus.github.com/atom.xml" rel="self"/>
+  <link href="http://Tingyus.github.com/"/>
+  <updated>2013-01-06T01:36:45-05:00</updated>
+  <id>http://Tingyus.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[this is test page]]></title>
+    <link href="http://Tingyus.github.com/blog/2013/01/06/this-is-test-page/"/>
+    <updated>2013-01-06T00:43:00-05:00</updated>
+    <id>http://Tingyus.github.com/blog/2013/01/06/this-is-test-page</id>
+    <content type="html"><![CDATA[<h3>Hello Yuxin</h3>
+]]></content>
+  </entry>
+  
+</feed>
